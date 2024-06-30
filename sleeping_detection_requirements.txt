@@ -1,0 +1,17 @@
+os==1.0.0
+sys==1.10.0
+tempfile==0.8.3
+urllib3==1.26.7
+urllib.parse==3.9.1
+urllib.error==3.9.1
+zipfile==1.0.0
+tarfile==1.0.0
+shutil==1.0.0
+numpy==1.21.2
+pandas==1.3.5
+seaborn==0.11.2
+matplotlib==3.5.1
+tensorflow==2.8.0
+keras==2.8.0
+scikit-learn==1.0.2
+split-folders==0.5.1
